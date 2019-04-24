@@ -9,3 +9,5 @@ Tutorials for
 - UCI ISE
 - UCI Phone
 - UCI Wine
+
+Data and Image Results are saved in Data Directory. 
